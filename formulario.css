@@ -1,0 +1,62 @@
+body{
+	background:#E3F2FD;
+	background-attachment:fixed;
+	background-repeat:no-repeat; 
+	background-position:center 0;
+}
+
+
+a {		
+	font-family:verdana; 
+		font-size:20px;
+		color:#000;
+		text-decoration:none;
+		margin:10px,10px,10px,0px;
+	}
+
+.Logo de mi Compañia.jpg{
+	background:#E3F2FD;
+}
+
+div{
+	width:100px;
+	height:100px;
+	background:#4A88F4;
+	color:#fff;
+	font-size:30px;
+}
+
+.caja{
+	position:static;
+	top:15px; 
+	bottom:0px;
+	right:0px;
+	left:250px;
+}
+p{
+	width:50%;
+	height:120px; 
+	background:#90CAF9;
+	margin: 25px 50px;
+	padding:30px;
+	border:10px solid#BBDEFB
+}
+p{
+	font-family:arial,helvetica,sans-serif,"Beyond Wonderland" 
+	font-size:20px;
+	font-weight:normal;
+	text-align:center;
+	line-height:30px;
+	text-decoration:none;
+	text-transform:lowercase;
+	letter-spacing:normal;
+	word-spacing:1.5px;
+	
+.creador{
+	width:325px;
+	height:20px;
+	background:#90CAF9;
+	margin:25px 50px;
+	padding:30px;
+	border:10px solid#BBDEFB;
+}
